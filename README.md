@@ -1,7 +1,7 @@
 
 ---
 
-# 🎮 Biblioteca de Jogos 🎮
+# 🎮 Biblioteca de Jogos - Imersão Dev com Google Gemini (alura) 🎮
 
 Bem-vindo(a) à **Biblioteca de Jogos**! 🕹️  
 Este é um projeto simples e divertido que permite buscar por jogos e exibir resultados com detalhes como título, descrição, imagem e um link para mais informações. Perfeito para quem ama organizar suas listas de jogos! 😎
